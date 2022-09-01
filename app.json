@@ -1,7 +1,7 @@
 {
-    "name": "Logi Music Bot",
+    "name": "🦋⃟ᴠͥɪͣᴘͫ✮⃝🇲iss 🇶𝖚𝖊𝖊𝖓𝄟⃝",
     "description": "Logi Is A Telegram Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/014a1a289998a548996b9.jpg",
+    "logo": "https://telegra.ph//file/081329fa4817b83ad37c8.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -45,22 +45,22 @@
       },
       "OWNER_USERNAME": {
        "description": "the bot owner user name",
-       "value": "cl_me_logesh",
+       "value": "AANDAVAR8064",
        "required":true
       },
       "SUPPORT_CHANNEL": {
         "description": "the bot owner user name",
-        "value": "https://t.me/logi_channel",
+        "value": "https://t.me/SHEILDSUPPORT",
         "required":true
        },
        "SUPPORT_GROUP": {
         "description": "the bot owner user name",
-        "value": "https://t.me/lgbots",
+        "value": "https://t.me/crazy_chatzz",
         "required":true
        },             
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "5303133436",
+        "value": "5065752827",
         "required": true
       },
       "STRING_SESSION": {
@@ -95,7 +95,7 @@
       },
       "START_IMG_URL": {
         "description": "The pic which will be shown when you /start the bot in private.",
-        "value": "https://te.legra.ph/file/dd83f94f329491cf9c0d1.jpg",
+        "value": "https://telegra.ph//file/c2c5c2c8348626f07ada8.jpg",
         "required": false
       },
       "HEROKU_API_KEY": {
